@@ -34,7 +34,7 @@ export default function LoginView({ onLogin }) {
             </div>
             <div>
               <div className="text-xl font-bold text-slate-900">
-                Discharge<span className="text-blue-600">IQ</span>
+                Care<span className="text-blue-600">Chain</span>
               </div>
               <div className="text-xs text-slate-500 uppercase tracking-wider">Post-Discharge Care</div>
             </div>

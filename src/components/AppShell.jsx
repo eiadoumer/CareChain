@@ -13,7 +13,7 @@ export default function AppShell({ role, onLogout, children }) {
             </div>
             <div className="leading-tight">
               <div className="text-lg font-bold text-slate-900 tracking-tight">
-                Discharge<span className="text-blue-600">IQ</span>
+                Care<span className="text-blue-600">Chain</span>
               </div>
               <div className="text-[10px] text-slate-500 uppercase tracking-wider hidden sm:block">
                 {role.name} · Portal
